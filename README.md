@@ -1,6 +1,6 @@
 # 🚨 How to use Object Detection
 
-# Pre-requsite
+# Pre-requisite
 1. Python 3 or later
 2. Use following command
     "pip install tensorflow opencv-python h5py numpy scipy pillow matplotlib keras"
