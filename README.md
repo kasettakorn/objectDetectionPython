@@ -11,3 +11,7 @@
 2. Move video that you want to detect to datasets folder
 3. Run app.py or using following command in command prompt (Windows) or terminal (Mac OS)
     "python app.py"
+
+# Optional
+You can use Anaconda Cloud for using machine learning necessary library (https://www.anaconda.com/products/individual)
+
