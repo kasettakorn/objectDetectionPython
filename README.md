@@ -4,7 +4,7 @@
 1️⃣ Python 3 or later
 
 2️⃣ Use following command
-    "pip install tensorflow opencv-python h5py numpy scipy pillow matplotlib keras"
+    "pip install tensorflow==1.13.2 opencv-python h5py numpy scipy pillow matplotlib keras"
     
 3️⃣ h5 weight file (download from https://drive.google.com/open?id=15vupUzBnxZoDpmp5OJIwtz_GyI_xrgST)
 
