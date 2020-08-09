@@ -22,6 +22,7 @@ detector = VideoObjectDetection()
 detector.setModelTypeAsYOLOv3()
 detector.setModelPath(os.path.join(execution_path, "/models/yolo.h5"))
 detector.loadModel()
+detector.CustomObjects(fish=True)
 
 detector.detectObjectsFromVideo(
     input_file_path=os.path.join(execution_path, "datasets/city.mp4"),
