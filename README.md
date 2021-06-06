@@ -4,8 +4,14 @@
 1️⃣ Python 3 or later
 
 2️⃣ Use following command
+```
+$ pip install keras numpy matplotlib seaborn PIL
+```
     "pip install tensorflow==1.13.2 opencv-python h5py numpy scipy pillow matplotlib keras" or pip install tensorflow opencv-python h5py numpy scipy pillow matplotlib keras imageai
-    
+If following command can't run, use following command
+```
+$ pip install keras numpy matplotlib seaborn PIL
+```
 3️⃣ h5 weight file (download from https://drive.google.com/open?id=15vupUzBnxZoDpmp5OJIwtz_GyI_xrgST)
 
 # ❓How to use
